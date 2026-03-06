@@ -1,0 +1,8 @@
+dotnet new console:
+cria o sistema que completo que vai ser usado
+
+dotnet build:
+atualiza a build antiga
+
+dotnet run:
+roda o programa
